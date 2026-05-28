@@ -10,7 +10,15 @@ use App\Http\Controllers\Guru\AbsensiController as GuruAbsensiController;
 use App\Http\Controllers\Guru\DashboardController as GuruDashboardController;
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', fn () => redirect()->route('login'));
+Route::get('/', function () {
+    if (! auth()->check()) {
+        return redirect()->route('login');
+    }
+
+    return auth()->user()->isAdmin()
+        ? redirect()->route('admin.dashboard')
+        : redirect()->route('guru.dashboard');
+});
 
 Route::middleware('guest')->group(function () {
     Route::get('/login', [LoginController::class, 'showLoginForm'])->name('login');

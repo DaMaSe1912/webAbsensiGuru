@@ -14,6 +14,16 @@ return Application::configure(basePath: dirname(__DIR__))
         $middleware->alias([
             'role' => \App\Http\Middleware\RoleMiddleware::class,
         ]);
+
+        $middleware->redirectGuestsTo(fn () => route('login'));
+
+        $middleware->redirectUsersTo(function () {
+            $user = auth()->user();
+
+            return $user && $user->isAdmin()
+                ? route('admin.dashboard')
+                : route('guru.dashboard');
+        });
     })
     ->withExceptions(function (Exceptions $exceptions): void {
         //

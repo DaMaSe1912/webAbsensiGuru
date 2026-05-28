@@ -167,7 +167,7 @@ tampilan role user dalam mobile
 #### 3. Pengajuan Izin (User)
 
 <p align="center">
-  <img src="Screenshot/pengajuanizinUserMobile.jpeg" width="600">
+  <img src="Screenshot/pengajuanizinMobile.jpeg" width="600">
 </p>
 
 ## Screenshot tabel data

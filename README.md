@@ -74,7 +74,7 @@ Role yang bertugas untuk mengawasi dan memanajemen data
   <img src="Screenshot/pengaturanAdmin.png" width="600">
 </p>
 
-### 2. Role User / Guru
+### 3. Role User / Guru
 
 Role yang menggunakan web, bisa menambah data namun tidak memiliki akses yang lebih seperti menghapus atau mengubah data
 
@@ -96,4 +96,108 @@ Role yang menggunakan web, bisa menambah data namun tidak memiliki akses yang le
   <img src="Screenshot/pengajuanizinUser.png" width="600">
 </p>
 
+## Screenshot (Mobile)
 
+Menampilkan screenshot dalam mobile
+
+### 1. Login page
+
+awalan untuk web dalam mobile
+
+<p align="center">
+  <img src="Screenshot/loginPageMobile.jpeg" width="600">
+</p>
+
+### 2. Role Admin
+
+tampilan role admin dalam mobile
+
+#### 1. Dashboard (Admin)
+
+<p align="center">
+  <img src="Screenshot/dashboardAdminMobile.jpeg" width="600">
+</p>
+
+#### 2. Data Guru (Admin)
+
+<p align="center">
+  <img src="Screenshot/dataguruMobile.jpeg" width="600">
+</p>
+
+#### 3. Absensi (Admin)
+
+<p align="center">
+  <img src="Screenshot/absensiAdminMobile.jpeg" width="600">
+</p>
+
+#### 4. Laporan (Admin)
+
+<p align="center">
+  <img src="Screenshot/laporanAdminMobile.jpeg" width="600">
+</p>
+
+#### 5. Pengajuan Izin (Admin)
+
+<p align="center">
+  <img src="Screenshot/pengajuanizinAdminMobile.jpeg" width="600">
+</p>
+
+#### 6. Pengaturan (Admin)
+
+<p align="center">
+  <img src="Screenshot/pengaturanAdminMobile.jpeg" width="600">
+</p>
+
+### 3. Role User / Guru
+
+tampilan role user dalam mobile
+
+#### 1. Dashboard (User)
+
+<p align="center">
+  <img src="Screenshot/dashboardUserMobile.jpeg" width="600">
+</p>
+
+#### 2. Riwayat (User)
+
+<p align="center">
+  <img src="Screenshot/riwayatUserMobile.jpeg" width="600">
+</p>
+
+#### 3. Pengajuan Izin (User)
+
+<p align="center">
+  <img src="Screenshot/pengajuanizinUserMobile.jpeg" width="600">
+</p>
+
+## Screenshot tabel data
+
+### 1. Tabel data Absensi
+
+<p align="center">
+  <img src="Screenshots/tabelAbsensi.png" width="600">
+</p>
+
+### 2. Tabel data Guru
+
+<p align="center">
+  <img src="Screenshots/tabelGuru.png" width="600">
+</p>
+
+### 3. Tabel data PengajuanIzin
+
+<p align="center">
+  <img src="Screenshots/tabelPengajuanIzin.png" width="600">
+</p>
+
+### 4. Tabel data Pengaturan
+
+<p align="center">
+  <img src="Screenshots/tabelPengaturan.png" width="600">
+</p>
+
+### 5. Tabel data Akun
+
+<p align="center">
+  <img src="Screenshots/tabelUser.png" width="600">
+</p>

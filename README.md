@@ -175,29 +175,29 @@ tampilan role user dalam mobile
 ### 1. Tabel data Absensi
 
 <p align="center">
-  <img src="Screenshots/tabelAbsensi.png" width="600">
+  <img src="Screenshot/tabelAbsensi.png" width="600">
 </p>
 
 ### 2. Tabel data Guru
 
 <p align="center">
-  <img src="Screenshots/tabelGuru.png" width="600">
+  <img src="Screenshot/tabelGuru.png" width="600">
 </p>
 
 ### 3. Tabel data PengajuanIzin
 
 <p align="center">
-  <img src="Screenshots/tabelPengajuanIzin.png" width="600">
+  <img src="Screenshot/tabelPengajuanIzin.png" width="600">
 </p>
 
 ### 4. Tabel data Pengaturan
 
 <p align="center">
-  <img src="Screenshots/tabelPengaturan.png" width="600">
+  <img src="Screenshot/tabelPengaturan.png" width="600">
 </p>
 
 ### 5. Tabel data Akun
 
 <p align="center">
-  <img src="Screenshots/tabelUser.png" width="600">
+  <img src="Screenshot/tabelUser.png" width="600">
 </p>
